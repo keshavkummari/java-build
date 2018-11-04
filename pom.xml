@@ -29,19 +29,19 @@
 		<repository>
 			<id>central</id>
 			<name>releases</name>
-			<url>http://13.233.89.27:8081/artifactory/libs-release-local</url>
+			<url>http://13.233.88.235:8081/artifactory/libs-release-local</url>
 		</repository>
 		<snapshotRepository>
 			<id>snapshot</id>
 			<name>snapshots</name>
-			<url>http://13.233.89.27:8081/artifactory/libs-snapshot-local</url>
+			<url>http://13.233.88.235:8081/artifactory/libs-snapshot-local</url>
 		</snapshotRepository>
 	</distributionManagement>
 
 	<scm>
-		<connection>scm:git:git@github.com:keshavkummari/devops.git</connection>
-		<developerConnection>scm:git:git@github.com:keshavkummari/devops.git</developerConnection>
-		<url>git@github.com:keshavkummari/devops.git</url>
+		<connection>scm:git:git@github.com:keshavkummari/java-build.git</connection>
+		<developerConnection>scm:git:git@github.com:keshavkummari/java-build.git</developerConnection>
+		<url>git@github.com:keshavkummari/java-build.git</url>
 		<tag>HEAD</tag>
 	</scm>
 
