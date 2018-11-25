@@ -1,7 +1,2 @@
-<<<<<<< HEAD
 /root/java-build/src/test/java/com/example/devops/web/WelcomeControllerTest.java
 /root/java-build/src/test/java/com/example/devops/DevopsApplicationTests.java
-=======
-/var/lib/jenkins/java-build/src/test/java/com/example/devops/web/WelcomeControllerTest.java
-/var/lib/jenkins/java-build/src/test/java/com/example/devops/DevopsApplicationTests.java
->>>>>>> 5b37e550f31283bdeb89ff48bef2a08cc1618c2f

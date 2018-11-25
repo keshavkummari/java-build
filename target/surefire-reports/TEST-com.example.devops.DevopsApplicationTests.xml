@@ -5,11 +5,7 @@
     <property name="sun.boot.library.path" value="/usr/lib/jvm/java-1.8.0-openjdk-1.8.0.191.b12-1.el7_6.x86_64/jre/lib/amd64"/>
     <property name="java.vm.version" value="25.191-b12"/>
     <property name="java.vm.vendor" value="Oracle Corporation"/>
-<<<<<<< HEAD
     <property name="maven.multiModuleProjectDirectory" value="/root/java-build"/>
-=======
-    <property name="maven.multiModuleProjectDirectory" value="/var/lib/jenkins/java-build"/>
->>>>>>> 5b37e550f31283bdeb89ff48bef2a08cc1618c2f
     <property name="java.vendor.url" value="http://java.oracle.com/"/>
     <property name="path.separator" value=":"/>
     <property name="guice.disable.misplaced.annotation.check" value="true"/>
@@ -19,11 +15,7 @@
     <property name="sun.java.launcher" value="SUN_STANDARD"/>
     <property name="sun.os.patch.level" value="unknown"/>
     <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
-<<<<<<< HEAD
     <property name="user.dir" value="/root/java-build"/>
-=======
-    <property name="user.dir" value="/var/lib/jenkins/java-build"/>
->>>>>>> 5b37e550f31283bdeb89ff48bef2a08cc1618c2f
     <property name="java.runtime.version" value="1.8.0_191-b12"/>
     <property name="java.awt.graphicsenv" value="sun.awt.X11GraphicsEnvironment"/>
     <property name="java.endorsed.dirs" value="/usr/lib/jvm/java-1.8.0-openjdk-1.8.0.191.b12-1.el7_6.x86_64/jre/lib/endorsed"/>
@@ -39,23 +31,14 @@
     <property name="java.specification.name" value="Java Platform API Specification"/>
     <property name="java.class.version" value="52.0"/>
     <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
-    <property name="os.version" value="3.10.0-862.el7.x86_64"/>
+    <property name="os.version" value="3.10.0-957.el7.x86_64"/>
     <property name="library.jansi.path" value="/opt/maven/lib/jansi-native"/>
-<<<<<<< HEAD
     <property name="user.home" value="/root"/>
     <property name="user.timezone" value="UTC"/>
     <property name="java.awt.printerjob" value="sun.print.PSPrinterJob"/>
     <property name="java.specification.version" value="1.8"/>
     <property name="file.encoding" value="ANSI_X3.4-1968"/>
     <property name="user.name" value="root"/>
-=======
-    <property name="user.home" value="/var/lib/jenkins"/>
-    <property name="user.timezone" value="UTC"/>
-    <property name="java.awt.printerjob" value="sun.print.PSPrinterJob"/>
-    <property name="java.specification.version" value="1.8"/>
-    <property name="file.encoding" value="UTF-8"/>
-    <property name="user.name" value="jenkins"/>
->>>>>>> 5b37e550f31283bdeb89ff48bef2a08cc1618c2f
     <property name="java.class.path" value="/opt/maven/boot/plexus-classworlds-2.5.2.jar"/>
     <property name="java.vm.specification.version" value="1.8"/>
     <property name="sun.arch.data.model" value="64"/>

@@ -1,0 +1,6 @@
+projectKey=com.example:devops
+serverUrl=http://13.233.141.216:9000
+serverVersion=7.1.0.11001
+dashboardUrl=http://13.233.141.216:9000/dashboard/index/com.example:devops
+ceTaskId=AWdGQN5RMDIFFMVwG2wM
+ceTaskUrl=http://13.233.141.216:9000/api/ce/task?id=AWdGQN5RMDIFFMVwG2wM

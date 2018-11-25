@@ -1,8 +1,4 @@
 -------------------------------------------------------------------------------
 Test set: com.example.devops.DevopsApplicationTests
 -------------------------------------------------------------------------------
-<<<<<<< HEAD
-Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.659 sec - in com.example.devops.DevopsApplicationTests
-=======
-Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.661 sec - in com.example.devops.DevopsApplicationTests
->>>>>>> 5b37e550f31283bdeb89ff48bef2a08cc1618c2f
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.759 sec - in com.example.devops.DevopsApplicationTests

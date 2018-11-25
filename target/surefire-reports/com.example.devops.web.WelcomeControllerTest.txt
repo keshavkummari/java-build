@@ -1,8 +1,4 @@
 -------------------------------------------------------------------------------
 Test set: com.example.devops.web.WelcomeControllerTest
 -------------------------------------------------------------------------------
-<<<<<<< HEAD
-Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 5.585 sec - in com.example.devops.web.WelcomeControllerTest
-=======
-Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 5.403 sec - in com.example.devops.web.WelcomeControllerTest
->>>>>>> 5b37e550f31283bdeb89ff48bef2a08cc1618c2f
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 5.545 sec - in com.example.devops.web.WelcomeControllerTest
